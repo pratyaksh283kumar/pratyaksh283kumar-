@@ -10,7 +10,7 @@ I specialize in building **Agentic Workflows** using n8n to solve real-world bus
 * **LLMs:** Google Gemini 1.5/2.5 Flash, GPT-4o
 * **OS:** Kali Linux (Power User & Security-focused environment)
 * **Search Tools:** SerpApi (Google Search Integration)
-* **Programming Languages:** Python,Javascript , HTML ,CSS,Flask.
+* **Programming Languages:** Python,Javascript , HTML ,CSS.
 
 ---
 
