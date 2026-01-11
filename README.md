@@ -21,4 +21,5 @@ I specialize in building **Agentic Workflows** using n8n to solve real-world bus
 * **Architecture:** Uses a recursive search loop in n8n with Gemini-driven reasoning.
 
 ---
+*More projects coming soon.*
 *Building the future of the Agentic Web.*
